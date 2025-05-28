@@ -138,8 +138,19 @@ This project is a full-stack **Data Warehouse solution** for a business involvin
 - ETL pipelines scheduled via SQL Server Agent
 - Full automation of extract, load, and refresh processes
 - Control flow design for error handling and monitoring
+- Dashboard : ![plpl](https://github.com/user-attachments/assets/52a06a83-dca5-460c-bff2-72fbd2ed492d)
+![pkpk](https://github.com/user-attachments/assets/0ea5a617-0657-4ab9-aa42-2aa08849442f)
+
+
 
 ---
 
 > ✅ This project provides a modern, maintainable Data Warehouse solution aligned with business strategy and BI best practices.
+
+---
+
+## 📬 Contact
+
+For questions, feedback, or collaboration:
+**Mohamed Rabea** – [LinkedIn](https://www.linkedin.com/in/mohamed-rabea-991373261/) | [Email](mailto:mhmdrby769@email.com)
 

@@ -149,6 +149,13 @@ This project is a full-stack **Data Warehouse solution** for a business involvin
 
 ---
 
+
+
+## 🔍 Data Source
+
+Link to the Datasource from Kaggle here : https://www.kaggle.com/code/knightbearr/analysis-sales-data-knightbearr
+
+---
 ## 📬 Contact
 
 For questions, feedback, or collaboration:
